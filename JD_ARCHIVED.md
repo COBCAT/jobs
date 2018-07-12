@@ -181,24 +181,19 @@ Given breaches are the number one cause of death among digital currency companie
     - Ability to write reusable/modular smart contracts and smart contract APIs
 - Preferably have knowledge in MPC, homomorphic encryption, zero knowledge proof, and differential privacy.
 
-#### Data Scientist
+#### Sofeware Engineer_Algo-Trading
 
 **Responsibilities**:
-- Develop advanced machine learning and statistical models
-- Data mining and feature engineering
-- Collaborate with engineering and product teams
+- Develop and implement algorithmic trading systems 
+- Develop machine learning algorithm to help us understand key industry trends in algo development
 
 **Essential Requirements**:
-- Bachelor's degree in computer science/engineering or any related field or equivalent practical experience
-- In-depth understanding of in-depth machine learning models and statistical analysis
-- Understanding of data processing and building production models
-- Familiar with machine learning library (e.g. Tensorflow)
-- Strong knowledge of Python or Scala
-- Competency in SQL or NoSQL
+- Strong technical skills in Python 
+- Familiar with Algorithm 
 
 **Desirable Qualifications**:
-- Experience in the advertising industry
-- Strong written and verbal communication skills
+- Solid hands on experience in hedge funds
+- Familiar with modern machine learning method
 
 ---
 
